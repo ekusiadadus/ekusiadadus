@@ -7,3 +7,15 @@
 
 ![ekusiadadus's github stats](https://github-readme-stats.vercel.app/api?username=ekusiadadus&show_icons=true&count_private=true&line_height=40&theme=dracula)
 ![Top Langs](https://my-readme-livid.vercel.app/api/top-langs/?username=ekusiadadus&hide=html&theme=dracula)
+<details>
+  <summary>:zap: My Wakatime</summary>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ekusiadadus&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+<details>
+  <summary>:zap: My Activity Graph</summary>
+  <div>
+      <img src="https://activity-graph.herokuapp.com/graph?username=ekusiadadus&theme=dracula&area=true" />
+  </div>
+</details>
