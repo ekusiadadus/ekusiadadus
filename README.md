@@ -69,6 +69,5 @@ I'm a full stack developer working in Tokyo, Japan🎌.
   <summary>:zap: My Snake Graph</summary>
   <div>
       <img src="https://raw.githubusercontent.com/ekusiadadus/github-snake/output/github-contribution-grid-snake.svg?palette=github-dark" />
-      <img src="https://raw.githubusercontent.com/ekusiadadus/github-snake/output/ocean.gif" />
   </div>
 </details>
