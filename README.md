@@ -1,9 +1,4 @@
 
-### Hi👋, I'm ekusiadadus
-[![Github](https://avatars.githubusercontent.com/u/70436490?s=60&v=4)](https://github.com/ekusiadadus)
-
-I'm a full stack developer working in Tokyo, Japan🎌.
-
 <p>
   <a href="https://www.linkedin.com/in/ekusiadadus/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://twitter.com/ekusiadadus/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
