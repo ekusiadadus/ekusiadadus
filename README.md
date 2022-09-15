@@ -15,7 +15,7 @@
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ekusiadadus&column=8&theme=gruvbox&no-frame=true"/>
 
 ![ekusiadadus's github stats](https://github-readme-stats.vercel.app/api?username=ekusiadadus&count_private=true&show_icons=true&line_height=40&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekusiadadus&langs_count=5&hide=html&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekusiadadus&langs_count=5&hide=html,cmake&theme=dracula)
 
 
 <details>
