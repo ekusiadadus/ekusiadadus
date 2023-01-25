@@ -54,9 +54,9 @@
 
 </details>
 <details>
-  <summary>:zap: My Activity Graph</summary>
+  <summary>:zap: My Acheivements</summary>
   <div>
-      <img src="https://activity-graph.herokuapp.com/graph?username=ekusiadadus&theme=dracula&area=true" />
+      <img src="https://matsuri-tech.github.io/matsuri-achievements/imgs/achievement-list/ekusiadadus.svg" />
   </div>
 </details>
 
