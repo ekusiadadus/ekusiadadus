@@ -54,7 +54,7 @@
 
 </details>
 <details>
-  <summary>:zap: My Acheivements</summary>
+  <summary>:zap: My Achievements</summary>
   <div>
       <img src="https://matsuri-tech.github.io/matsuri-achievements/imgs/achievement-list/ekusiadadus.svg" />
   </div>
