@@ -1,15 +1,16 @@
-
-<p>
-  <a href="https://www.linkedin.com/in/ekusiadadus/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/ekusiadadus/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
-  <a href="https://www.youtube.com/@ekusiadadus/"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
-  <a href="https://ekusiadadus.com/"><img src="https://img.shields.io/badge/blog--_.svg?style=social&logo=blogger" alt="Blogr"></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-lover-pink?logo=C%2B%2B"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flutter-joker-blue?logo=Flutter"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Go-night-skyblue?logo=go"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Rust-shark-yellow?logo=Rust"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Zig-baby-red?logo=zig"></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/ekusiadadus/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="https://twitter.com/ekusiadadus/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a></td>
+    <td><a href="https://www.youtube.com/@ekusiadadus/"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a></td>
+    <td><a href="https://ekusiadadus.com/"><img src="https://img.shields.io/badge/blog--_.svg?style=social&logo=blogger" alt="Blogr"></a></td>
+    <td><a href="#"><img src="https://img.shields.io/badge/C%2B%2B-lover-pink?logo=C%2B%2B"></a></td>
+    <td><a href="#"><img src="https://img.shields.io/badge/Flutter-joker-blue?logo=Flutter"></a></td>
+    <td><a href="#"><img src="https://img.shields.io/badge/Go-night-skyblue?logo=go"></a></td>
+    <td><a href="#"><img src="https://img.shields.io/badge/Rust-shark-yellow?logo=Rust"></a></td>
+    <td><a href="#"><img src="https://img.shields.io/badge/Zig-baby-red?logo=zig"></a></td>
+  </tr>
+</table>
 
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ekusiadadus&column=8&theme=gruvbox&no-frame=true"/>
