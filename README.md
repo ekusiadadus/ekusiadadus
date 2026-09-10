@@ -1,15 +1,19 @@
-# Daisuke Kuriyama
+# Daisuke Kuriyama / 栗山 大介
+
+I am **Daisuke Kuriyama**, also written **Kuriyama Daisuke** (栗山 大介 / 栗山大介), and known online as **ekusiadadus**. [Official profile](https://ekusiadadus.com/en/about).
 
 I build coordination systems for dense robot fleets and performance tools for engineers.
 
-- Building [Rovnou](https://rovnou.com/en), a cross-vendor traffic coordination layer for warehouse robots.
-- Working on multi-agent pathfinding and swarm robotics with a 100-robot physical testbed and simulations of up to 10,000 robots.
+- Founder of [BreakAI](https://breakai.ai/), working on robot deployment and optimization in manufacturing.
+- Building [Rovnou](https://rovnou.com/en), our robot coordination software.
+- Interested in robot reinforcement learning, new simulators, and digital twins connecting simulation with physical robots and their environments.
+- Working on multi-agent pathfinding and swarm robotics across simulation and physical robots.
 - Maintaining [isutools](https://github.com/ekusiadadus/isutools), [draw-mcp](https://github.com/ekusiadadus/draw-mcp), and [rt-lacam](https://github.com/ekusiadadus/rt-lacam).
 - Contributing to open source projects including [Rust](https://github.com/rust-lang/rust), [Ghostty](https://github.com/ghostty-org/ghostty), and [Biome](https://github.com/biomejs/biome).
 
 Based in Tokyo.
 
-[Website](https://ekusiadadus.com) · [Rovnou](https://rovnou.com/en) · [X](https://x.com/ekusiadadus) · [LinkedIn](https://www.linkedin.com/in/ekusiadadus/)
+[Website](https://ekusiadadus.com) · [BreakAI](https://breakai.ai/) · [Rovnou](https://rovnou.com/en) · [X](https://x.com/ekusiadadus) · [LinkedIn](https://www.linkedin.com/in/ekusiadadus/)
 
 ## Featured projects
 
